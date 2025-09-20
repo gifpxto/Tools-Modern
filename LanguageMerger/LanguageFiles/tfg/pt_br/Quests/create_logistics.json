@@ -22,7 +22,7 @@
     "quests.create_logistics.postbox.title": "Caixas de Correio",
     "quests.create_logistics.postbox.subtitle": "Você um mail",
     "quests.create_logistics.postbox.desc.1": "&3Caixas de Correio&r são usadas para rotear pacotes usando &aRedes de Trem&r. Primeiro, clique com o botão direito do mouse em uma &3Estação de Trem&r para vincular a Caixa de Correio a essa estação antes de posicioná-la. A partir daí, qualquer trem que pare lá poderá interagir com a Caixa de Correio (desde que esteja a até 4 quarteirões da estação). \n\nAssim como os &3Portos de Pacotes&r, eles podem ser nomeados. Os trens que passarem coletarão quaisquer pacotes cujo destino não corresponda ao nome da Caixa de Correio. Além disso, se o trem tiver pacotes em seus inventários que &odo&r correspondam à Caixa de Correio, eles serão passados para o inventário da Caixa de Correio.",
-    "quests.create_logistics.postbox.desc.2": "Uma última coisa legal sobre &3Postboxes&r é que ao extrair automaticamente delas (por meio de calhas, funis, etc.), apenas os pacotes com um destino que &acorda com o nome da Postbox&r serão retirados e quaisquer pacotes com um destino diferente permanecerão dentro para serem carregados nos trens mais tarde.",
+    "quests.create_logistics.postbox.desc.2": "Uma última coisa legal sobre &3Caixas de Correio&r é que ao extrair automaticamente delas (por meio de calhas, funis, etc.), apenas os pacotes com um destino que &acorda com o nome da Postbox&r serão retirados e quaisquer pacotes com um destino diferente permanecerão dentro para serem carregados nos trens mais tarde.",
 
     "quests.create_logistics.nbt_handling.title": "Conte-me mais",
     "quests.create_logistics.nbt_handling.subtitle": "Outras informações sobre pacotes e endereços",
