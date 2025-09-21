@@ -2,7 +2,7 @@
     "quests.medium_voltage": "&bMV&r - Média Voltagem",
     "quests.medium_voltage.subtitle": "Aventure-se na petroquímica e refine a eletrônica",
 
-    "quests.medium_voltage.mv_machine_hull.title": "Welcome to MV!",
+    "quests.medium_voltage.mv_machine_hull.title": "Bem-Vindo ao MV!",
     "quests.medium_voltage.mv_machine_hull.subtitle": "More technology, more problems",
     "quests.medium_voltage.mv_machine_hull.desc.1": "Every time you enter a new tier, things can get a bit overwhelming. You’ll be faced with lots of &enew machines&r to build and &echemicals&r to produce.\n\nAs you’ve probably seen in the quests, you have &2three main objectives&r to complete before progressing into &6HV&r. Let's break them down one by one.",
     "quests.medium_voltage.mv_machine_hull.desc.2": "First, you'll need to upgrade your &dEBF&r with two new &bMV Energy Hatches&r. This will allow it to overclock and run &6HV recipes&r. That upgrade is key for producing &estainless steel&r, the main material for &6HV&r, and also &eKanthal&r, which you’ll need to upgrade your &dEBF coils&r.",
