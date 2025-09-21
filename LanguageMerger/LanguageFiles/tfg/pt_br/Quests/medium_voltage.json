@@ -3,7 +3,7 @@
     "quests.medium_voltage.subtitle": "Aventure-se na petroquímica e refine a eletrônica",
 
     "quests.medium_voltage.mv_machine_hull.title": "Bem-Vindo ao MV!",
-    "quests.medium_voltage.mv_machine_hull.subtitle": "More technology, more problems",
+    "quests.medium_voltage.mv_machine_hull.subtitle": "Mais tecnologias, mais problemas",
     "quests.medium_voltage.mv_machine_hull.desc.1": "Every time you enter a new tier, things can get a bit overwhelming. You’ll be faced with lots of &enew machines&r to build and &echemicals&r to produce.\n\nAs you’ve probably seen in the quests, you have &2three main objectives&r to complete before progressing into &6HV&r. Let's break them down one by one.",
     "quests.medium_voltage.mv_machine_hull.desc.2": "First, you'll need to upgrade your &dEBF&r with two new &bMV Energy Hatches&r. This will allow it to overclock and run &6HV recipes&r. That upgrade is key for producing &estainless steel&r, the main material for &6HV&r, and also &eKanthal&r, which you’ll need to upgrade your &dEBF coils&r.",
     "quests.medium_voltage.mv_machine_hull.desc.3": "Your second objective—although you can tackle it first if you prefer—involves diving into chemistry. Your first plastic, &ePolyethylene&r, is essential for future progress. There are two possible paths you can follow, and the quests will help guide you:\n\n- &ePetrochem route&r: extract oil from the ground or oilsands. This path also unlocks &eDiesel&r production for fuel combustion.\n\n- &eBiochem route&r: use a &6Pyrolyse Oven&r and wood (a Create-powered tree farm works great). This method gives you more &eBenzene&r and opens the door to using a &eGas Generator&r.\n\nEach path has its pros and cons, but eventually, you’ll need both anyway.",
